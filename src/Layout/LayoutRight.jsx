@@ -12,6 +12,12 @@ const FirstSection = styled.div`
   height: 100px;
 `;
 const Content = styled.div`
+  color: #fff;
+  font-size: 14px;
+  padding: 10px;
+  text-align: center;
+  word-break:keep-all;
+  line-height: 150%;
   margin: 32px auto;
   width: 90%;
   height: 100%;
